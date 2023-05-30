@@ -2,10 +2,7 @@
   "name": "firdavs/triggers",
   "description": "Mysql trigger work helper",
   "type": "library",
-  "require": {
-    "php": "8.*",
-    "illuminate/support": "8.*"
-  },
+  "require": {},
   "license": "MIT",
   "autoload": {
     "psr-4": {
