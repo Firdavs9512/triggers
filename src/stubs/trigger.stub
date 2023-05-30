@@ -1,0 +1,5 @@
+CREATE TRIGGER `{{trigger_name}}` {{trigger_when}} ON `{{trigger_table}}`
+FOR EACH ROW
+BEGIN
+    -- Trigger logic goes here
+END;
