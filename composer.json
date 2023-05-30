@@ -1,0 +1,22 @@
+{
+  "name": "firdavs/triggers",
+  "description": "Mysql trigger work helper",
+  "type": "library",
+  "require": {
+    "php": "8.*",
+    "illuminate/support": "^8.0"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Firdavs\\Triggers\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Firdavs Sharipov"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
